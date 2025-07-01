@@ -35,7 +35,7 @@ A complete user registration and management system built using **ASP.NET Web For
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/registration-form.git
+   git clone https://github.com/Biraj007/registration-form.git
    ```
 
 2. **Open the Solution**
